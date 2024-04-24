@@ -15,6 +15,8 @@ python -m pip install .
 pygmentize -O style=dark-modern test.py
 ```
 
+![Test picture](/pygments-vsc-darkmodern.PNG)
+
 ## Contribute
 
 If you want to improve the style to be more consistent with VSCode default Dark Modern, please send a PR.
